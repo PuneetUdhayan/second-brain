@@ -1,0 +1,1 @@
+A JAR (Java ARchive) file is a compressed archive format, based on the familiar ZIP format, used to aggregate many Java-related files and resources into a single, portable file. It allows developers to efficiently distribute and deploy entire applications or libraries, as all necessary components can be downloaded in a single HTTP transaction. 
